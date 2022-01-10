@@ -251,7 +251,8 @@
   margin-left: auto !important;
   margin-right: auto !important;
   padding: 0;
-  column-gap: 0;
+  -moz-column-gap: 0;
+       column-gap: 0;
 }
 
 .footer-credit > * {
