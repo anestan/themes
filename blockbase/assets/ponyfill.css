@@ -217,14 +217,12 @@ a {
   text-decoration: none;
 }
 a:hover, a:focus {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 
 .block-editor-block-list__layout a,
 .wp-block-post-content a {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 .block-editor-block-list__layout a:hover, .block-editor-block-list__layout a:focus,
 .wp-block-post-content a:hover,
@@ -512,8 +510,7 @@ ol {
   row-gap: 0rem;
 }
 .wp-block-navigation.blockbase-responsive-navigation-minimal.is-responsive .is-menu-open.wp-block-navigation__responsive-container .wp-block-navigation__responsive-container-content .wp-block-navigation-item > a:hover {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 .wp-block-navigation.blockbase-responsive-navigation-minimal.is-responsive .is-menu-open.wp-block-navigation__responsive-container .wp-block-navigation__responsive-container-content .wp-block-navigation-item.current-menu-item > a {
   text-decoration: underline;
