@@ -193,8 +193,7 @@ ul ul {
 }
 
 .wp-block-post-content p a {
-  -webkit-text-decoration-line: underline;
-          text-decoration-line: underline;
+  text-decoration-line: underline;
 }
 .wp-block-post-content p a:hover {
   text-decoration: none;
